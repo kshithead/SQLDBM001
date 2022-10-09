@@ -1,0 +1,7 @@
+id 78 80 81 84 01 79
+name Pujal Pushpak Ashwin Roshini Rutika Amit
+age 22 20 21 20 20 20
+sex female male male female female male
+type 1 3
+title doremi how_to_survive_life
+string hooman ashwin

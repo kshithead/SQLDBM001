@@ -1,0 +1,24 @@
+CREATE TABLE Tbl1 (name string not null, id int check(int!=0), info string);
+Create table yolo(type int, title string , year int);
+Insert into Tbl1 (Rashomon, 25, testcase_1)
+Insert into Tbl1 (25, Rashomon, testcase_1)
+Insert into Tbl1 (name,id,info) values ("Miratas", 27, testcase_2)
+Insert into Tbl1 (name,id,info) values ("FORUPDATE", 29, "NOTYETUPDATED");
+Select * from Papers;
+SELECT name, age,  sex from Table1 where sex="female" ;
+DELETE FROM Tbl1 WHERE name= "Rashomon";
+Update Tbl1 set info= "UPDATEDONE" where id=29;
+DROP TABLE yolo;
+QUIT;
+ name string not null , id int check ( int!= 0 ) , info string
+
+insert
+select
+create
+drop
+quit
+
+
+
+delete
+update
