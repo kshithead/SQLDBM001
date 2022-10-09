@@ -1,1 +1,5 @@
-Tbl1 3 name string id int info string 
+Papers 3 author string title string type int 
+Table1 4 age int id int name string sex string 
+Table2 2 name string num int 
+Tbl1 3 id int info string name string 
+test1 3 column1 int column2 string column3 int 
